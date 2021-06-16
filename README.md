@@ -10,5 +10,5 @@
 
 ## Team Members:
 ### daniethecreator - machine learning
-### stevenpy217 - data
+### stevenpy217 - database administration
 ### ssyed21 - repository/data visualization
