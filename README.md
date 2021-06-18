@@ -23,5 +23,9 @@
 #### Step 6 - Analysis and Conclusion
 
 ### Visualization Dashboard Storyboard and Tool/Interactive Elements
-[Link to Content](https://docs.google.com/presentation/d/1QEt-iPHj8puTHB0KhH6VZSqS7NMc-zfWgPadV98640k/edit?usp=sharing)
+#### [Link to Content](https://docs.google.com/presentation/d/1QEt-iPHj8puTHB0KhH6VZSqS7NMc-zfWgPadV98640k/edit?usp=sharing)
+#### Visualization Tool: Tableau
+#### Interactive Elements
+##### Slicers to choose filters based on location, number of billionaires, and/or GDP
+##### Moveable Map for geographical data
 
