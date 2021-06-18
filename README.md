@@ -1,7 +1,7 @@
 # final-project
 
 ## Presentation Content:
-[Link to Presentation Content](https://github.com/ssyed21/final-project/blob/main/UCB_Bootcamp_Final.pptx)
+[Link to Presentation Content](https://docs.google.com/presentation/d/1XPg9STbXekAmAopnO2dyry2ArxlAnhtrKhoGGwpg8ho/edit?usp=sharing)
 
 ## Communication Protocols:
 ### Slack Channel with all three group members
