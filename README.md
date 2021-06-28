@@ -29,6 +29,10 @@
 ##### Slicers to choose filters based on location, number of billionaires, and/or GDP
 ##### Moveable Map for geographical data
 
+## Segment 3
+### Data Visualization
+#### [Link to Tableau](https://public.tableau.com/app/profile/sohail.a.syed/viz/FinalProject_16245847247810/Story2)
+
 ### Machine Learning
 #### [Link to Analysis Content](https://docs.google.com/presentation/d/1XPg9STbXekAmAopnO2dyry2ArxlAnhtrKhoGGwpg8ho/edit#slide=id.ge0e077afc1_0_44)
 #### Description of preliminary data preprocessing
@@ -38,6 +42,7 @@
 * I decided to keep all the columns that went into the net happiness calculation to give the model the best opportunity to find a correlation to the number of billionaires per country by either the happiness score or perhaps one of the factors that may influence the happiness score.
 #### Description of how data was split into training and testing sets
 * Set target column to y and then dropped column(s) x before training it with 80% of the data and using 20% to test
+
 #### Explanation of model choice, including limitations and benefits
 * I chose Decision Trees and Random Forest unsupervised machine learning to be able to take in the different scores and factors of happiness to help aid the model to have more factors in determining how many billionaires each country will have. These two models used together are pretty straightforward to use without normalization while also being able to learn non-linear relationships, which is helpful for this set of data that has numeric values and calculated scores.
 * Pros for Random Forest- predictive power, easy data prep, fast training, no normalization, can optimization options.
