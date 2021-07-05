@@ -39,6 +39,7 @@ We consolidated the datasets from 2016~2021 for the 500 billionaire data and con
 Changed the column titles to all lowercase and replace spaces with underscore. 
 
 ![Screenshot!](./Resources/Images/happiness.png)
+![happiness.png](happiness.png)
 
 #### SQL
 * We uploaded the consolidated data into postgreSQL by creating table and importing data.
