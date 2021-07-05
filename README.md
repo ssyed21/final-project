@@ -38,16 +38,15 @@
 We consolidated the datasets from 2016~2021 for the 500 billionaire data and consolidated world happiness report with world happiness 2021 report.
 Changed the column titles to all lowercase and replace spaces with underscore. 
 
-![Screenshot!](happinessdata.png)
-![happiness.png](happiness.png)
-![happinessdata](happinessdata.png)
+![Screenshot](happinessdata.png)
+
 
 #### SQL
 * We uploaded the consolidated data into postgreSQL by creating table and importing data.
 Once both tables and data have been imported we created a new table by merging the two dataset with the below query.
 Primary key was set up on the reference (Year & Country) to be able to merge the two dataset.
 
-![Screenshot!](./Resources/Images/sql1.png)
+![Screenshot](./Resources/Images/sql1.png)
 
 #### Hosting on AWS
 
