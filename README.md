@@ -40,7 +40,7 @@ Changed the column titles to all lowercase and replace spaces with underscore.
 
 ![Screenshot!](happinessdata.png)
 ![happiness.png](happiness.png)
-![Screenshot](happinessdata.png)
+![happinessdata](happinessdata.png)
 
 #### SQL
 * We uploaded the consolidated data into postgreSQL by creating table and importing data.
