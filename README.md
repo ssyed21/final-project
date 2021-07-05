@@ -38,7 +38,7 @@
 We consolidated the datasets from 2016~2021 for the 500 billionaire data and consolidated world happiness report with world happiness 2021 report.
 Changed the column titles to all lowercase and replace spaces with underscore. 
 
-![Screenshot!](./Resources/Images/happiness.png)
+![Screenshot!](./Resources/Images/happinessdata.png)
 ![happiness.png](happiness.png)
 
 #### SQL
