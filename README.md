@@ -40,7 +40,6 @@ Changed the column titles to all lowercase and replace spaces with underscore.
 
 ![Screenshot](happinessdata.png)
 
-
 #### SQL
 * We uploaded the consolidated data into postgreSQL by creating table and importing data.
 Once both tables and data have been imported we created a new table by merging the two dataset with the below query.
@@ -63,8 +62,6 @@ We created the AWS S3 bucket and changed the permission to public in order to co
  ![Screenshot!](./Resources/Images/Correlation_code.png)
 
 * The correlation also provided information on what factors were key drivers in determining the overall happiness score per country. Findings continue on the next page with the visualization, the code for the correlation graph including saving the graph image is below. 
-
-
 
 #### Correlations
 * In looking at the correlations between the different columns after the combination of the two datasets, we found that while gdp_per_capita has the highest correlation to the happiness score, the columns from the billionaires dataset, billionaires, rate, sum_of_net_worth had very low or no correlation to the different happiness columns including happiness score. We can conclude that money can buy happiness, but only to a certain point since the highest earned’ countries do not seem to impact their net worth or number of billionaires a country has. 
